@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggest an idea
+    url: https://github.com/ErikTrapman/cranklands/discussions/categories/ideas
+    about: Features, workouts, worlds and courses you'd like. Ideas live in Discussions, where others can vote on them.
+  - name: Ask a question
+    url: https://github.com/ErikTrapman/cranklands/discussions/categories/q-a
+    about: How something works, or whether your trainer is supported.
+  - name: Something private (privacy, security)
+    url: https://cranklands.cyclear.nl/support#contact
+    about: Don't post it here. Email us instead.

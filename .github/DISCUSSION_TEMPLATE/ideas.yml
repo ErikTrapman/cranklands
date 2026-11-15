@@ -1,0 +1,17 @@
+title: "Idea: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search the [Ideas](https://github.com/ErikTrapman/cranklands/discussions/categories/ideas) first: if it's there, a 👍 on the first post counts as a vote.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why? What would it help you do?
+      description: The problem behind the idea helps us find the best way to solve it.
